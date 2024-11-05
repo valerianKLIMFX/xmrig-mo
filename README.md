@@ -1,3 +1,7 @@
+# Forked version of MoneroOcean
+This is a forked version of the MoneroOcean, with uptstream sync, I have forked it to add more API functions and control my miner rig projects, and OS :)
+(NOTE : la bise au chat !)
+
 # XMRig
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/MoneroOcean/xmrig/releases)
